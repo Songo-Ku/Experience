@@ -6,16 +6,35 @@ Experienced IT professional with 8 years of expertise in the digital marketing i
 
 ## Extended Professional Experience:
 
-03-07.2019 Data analyst in WayToGrow
+## 2021-12.2024 QA Tester/ Manual Tester in JM System:
+
+Skillstack:
+- Jira, Gitlab, Postman, Dev tools, Excel, git, 
+
+Responsibilities:
+- Manual tests for promotions, motions, calculations, forms, redirect.
+- Exploratory tests
+- Retests
+- Regression tests
+- Acceptations test
+- Execute scenarios from specification and scenatios sets
+- Bug detecting and reporting.
+
+For who:
+- for partners from office, e-commerce shops, public institutions, co-bank partners.
+
+## 03-07.2019 Data analyst in WayToGrow:
+
+Skillstack:
+- ggplot2 (visualization), dplyr/tidyr (data wrangling, manipulation), stringr/text2vec (NLP processing), DFP, Google APIs, R-studio, 
+
 - Leveraged R and Google APIs to automate minimum bid pricing in DFP google ad manager and prebid systems.
 
 - Developed R scripts and algorithms to dynamically set floor prices in Google Ad Manager (GAM) and Prebid auctions, optimizing yield across 50+ programmatic international publishers.
 
 - Engineered automated bid floors adjustment system using:
 
-- Google APIs: Ad Manager API, Prebid Server API
-
-- R ecosystem: ggplot2 (visualization), dplyr/tidyr (data wrangling), stringr/text2vec (NLP processing)
+- Google APIs: Ad Manager API- DFP
 
 - Created ETL pipelines to process 10M+ daily bid requests, identifying optimal floor prices
 
@@ -24,6 +43,7 @@ Experienced IT professional with 8 years of expertise in the digital marketing i
 - Visualized pricing strategy effectiveness through interactive dashboards (GGPLOT) used by commercial teams to monitor 10 KPIs
 
 - Key outcome: Achieved 500% faster floor price updates and 10-50% increase in programmatic revenue through optimized bid floors.
+
 
 ## Data analysis:
 Profile:

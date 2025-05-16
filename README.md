@@ -37,7 +37,7 @@ Responsibilities:
 
 - Google APIs: Ad Manager API- DFP
 
-- Created ETL pipelines to process 10M+ daily bid requests, identifying optimal floor prices
+- Collect, manipulate, analyse 10M+ daily bid requests, identifying optimal floor prices 
 
 - Automated 95% of manual set floors management tasks through API integrations, reducing human errors by 40% and increasing update frequency from weekly to daily adjustments
 

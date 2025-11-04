@@ -1,8 +1,8 @@
 # Experience
-Extended verion of CV. Divided by role analyst and tester. Both of them include description of responibilities and key projects. Additionally 2 roles which I did not included in CV.
+Extended verion of CV. Divided by role analyst and tester. Both of them include description of responibilities and key projects. 
 
 ## General profile:
-Experienced IT professional with 8 years of expertise in the digital marketing industry, specializing in software testing, data analysis. Adept at working independently in multifaceted roles that require a deep understanding of various technical and business concepts. Strong analytical skills, problem-solving abilities, and a keen eye for detail allow me to ensure the quality and efficiency of digital solutions. Excellent communication skills enable effective collaboration with stakeholders.
+Experienced IT professional with 8 years of expertise in the digital marketing industry and banking, specializing in software testing, data analysis. Adept at working independently in multifaceted roles that require a deep understanding of various technical and business concepts. Strong analytical skills, problem-solving abilities, and a keen eye for detail allow me to ensure the quality and efficiency of digital solutions. Excellent communication skills enable effective collaboration with stakeholders.
 
 ## Extended Professional Experience:
 

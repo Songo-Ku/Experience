@@ -6,22 +6,6 @@ Experienced IT professional with 8 years of expertise in the digital marketing i
 
 ## Extended Professional Experience:
 
-## 2021-12.2024 QA Tester/ Manual Tester in JM System:
-
-Skillstack:
-- Jira, Gitlab, Postman, Dev tools, Excel, git, 
-
-Responsibilities:
-- Executed manual tests for promotional logic, UI forms, business logic calculations, redirections, and user motion workflows
-- Exploratory tests
-- Retests
-- Regression tests
-- Acceptations test
-- Execute scenarios from specification and scenatios sets
-- Bug detecting and reporting.
-
-For who:
-- for partners from office, e-commerce shops, public institutions, co-bank partners.
 
 ## 03-07.2019 Data analyst in WayToGrow:
 
